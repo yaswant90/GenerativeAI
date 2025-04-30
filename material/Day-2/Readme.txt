@@ -1,8 +1,9 @@
 Day 2
 .......................................
 Will cover
-1. Control flows
-2. Data structures (loops, lists, tuples)
+1. Conditions
+2. Control flows
+3. Data structures (loops, lists, tuples)
 
 
 when to use tuple and when to use list
