@@ -1,0 +1,6 @@
+Day 3
+.......................................
+Will cover
+1. Data structures (Dictionaries and Real world use cases of lists)
+2. functions
+3. importing, creating modules and packages 
