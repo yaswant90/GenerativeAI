@@ -8,6 +8,8 @@ Technologies:
 Angular, React, IONIC, AWS Webservices PHP, Drupal, MYSQL, ORACLE, Node Js, JavaScript, Typescript, Python, Datascience & ML.
 Domains:
 E-commerce, Socialmedia, Retail, Infra, Banking, Feedabk Portals, Airlines, Travel Portals.
+Tools, deploying & IDE's
+JIRA, GITHUB, GITLAB, CI/CD pipelines, sonar coverages, Jasmine and Karma unit testcases, EC2 Deployments, Docker
 
 Agenda:
 Learn python and ML on daily bases
