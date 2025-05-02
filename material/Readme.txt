@@ -5,9 +5,9 @@ Working as a Tech Lead in a well known software industry.
 Technologies and Domains I worked
 
 Technologies:
-Angular, React, IONIC, AWS Webservices PHP, Drupal, MYSQL, ORACLE, Node Js, JavaScript, Typescript, Python, Datascience & ML.
+Angular, React, IONIC, AWS Webservices PHP, Drupal, MYSQL, ORACLE, Node Js, JavaScript, Typescript, Python, Data science & ML.
 Domains:
-E-commerce, Socialmedia, Retail, Infra, Banking, Feedabk Portals, Airlines, Travel Portals.
+E-commerce, Social media, Retail, Infra, Banking, Feedback Portals, Airlines Transaction and Balance sheets, Travel Portals.
 Tools, deploying & IDE's
 JIRA, GITHUB, GITLAB, CI/CD pipelines, sonar coverages, Jasmine and Karma unit testcases, EC2 Deployments, Docker
 
