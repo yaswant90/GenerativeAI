@@ -1,0 +1,39 @@
+ML -> supervised and unsupervised 
+supervised -> classification and Regressions
+
+create a model , train the model with multiple features (dataset), then its capable to predict 
+f1, f2, f3, f4 .... features 
+
+some features -> text
+
+Example : Spam classification -> Email is spam or not
+
+Email subject, body is input    is spam -> output
+
+Billionere "You won a lottory of 1 billion" 1 (span yes)
+
+cleaning the text : input text -> vectors
+step1
+Text preprocessing - tokenization, summarization, stemming, stopwords
+
+step2
+Text preprocessing - Bag of words, TFIDF, unigram
+
+step3
+Text preprocessing - word2vec, Avgword2vec
+
+Neural network (Deep Learning)
+step4
+RNN, LSTM RNN, GRU RNN
+
+step5
+Text preprocessing - word embedding
+
+step6
+Transformers
+
+step7
+BERT
+
+step1,2,3 - Machine Learning
+step4,5,6,7 -> NLTK, tensorflow/pytorch
