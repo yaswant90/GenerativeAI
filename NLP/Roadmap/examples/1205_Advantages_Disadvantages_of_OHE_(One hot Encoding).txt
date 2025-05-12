@@ -1,0 +1,15 @@
+Advantages of OHE (One hot Encoding) : 
+1. Easy to implement with python (using sklearn OHE, pd.get_dummies)
+
+Disadvantages of OHE:
+1. Sparse Matrix -> Overfitting
+2. ML Algorithms -> Fixed size input is needed. (Dimensions of matrix varies here) 
+3. No Semantic meaning is getting captured.
+Exp:
+
+Food pizza burger
+ 1    0     0
+ 0    1     0
+ 0    0     1
+
+4. Out of vocabulary (OOV) : we can't represent not existed words while testing. if new word comes for testing this method fails. 
