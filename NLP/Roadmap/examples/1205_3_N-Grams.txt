@@ -1,0 +1,19 @@
+N-Grams
+
+S1 The food is good
+S2 The food is not good
+
+Removing is & the using stop words
+
+  food not good
+S1 1    0   1
+S2 1    1   1
+
+Biagram
+..............
+combinations -> 
+  food  not  good | food good | food not | not good
+S1  1      0    1       1          0         0
+S2  1      0    1       0          1         1
+
+sklearn -> n-grams=(1,1) -> unigrams (1,2)-> unigram & bigram (1,3) -> unigram, bigram & trigram (2,3) -> bigram & trigram
